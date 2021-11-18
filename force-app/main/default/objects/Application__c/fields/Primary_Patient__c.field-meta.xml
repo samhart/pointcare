@@ -3,11 +3,11 @@
     <fullName>Primary_Patient__c</fullName>
     <externalId>false</externalId>
     <label>Primary Patient</label>
-    <referenceTo>Contact</referenceTo>
+    <referenceTo>Patient__c</referenceTo>
     <relationshipLabel>Applications</relationshipLabel>
     <relationshipName>Applications</relationshipName>
     <relationshipOrder>0</relationshipOrder>
-    <reparentableMasterDetail>true</reparentableMasterDetail>
+    <reparentableMasterDetail>false</reparentableMasterDetail>
     <trackHistory>false</trackHistory>
     <trackTrending>false</trackTrending>
     <type>MasterDetail</type>
